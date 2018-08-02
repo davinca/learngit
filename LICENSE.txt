@@ -1,2 +1,3 @@
 # learngit version 1.0
-learngit version 2.0
+# learngit version 2.0
+learngit verison 3.0
